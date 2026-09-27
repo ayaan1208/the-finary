@@ -1,0 +1,5 @@
+{
+  "name": "the-finary",
+  "install": "pip3 install --user -r finary/requirements.txt",
+  "terminals": []
+}
